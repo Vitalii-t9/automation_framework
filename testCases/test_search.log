@@ -1,0 +1,13 @@
+2021-10-02 18:56:52.598: - INFO - Select Web driver: <selenium.webdriver.chrome.webdriver.WebDriver (session="9b9b61c1ab30719a1a83c4a23cd6e15e")> by Chrome
+2021-10-02 18:56:52.599: - INFO - implicitly wait 5 second
+2021-10-02 18:56:52.716: - INFO - Maximize browser window
+2021-10-02 18:56:57.514: - INFO - go to the start URL http://automationpractice.com/index.php 
+2021-10-02 18:56:57.553: - INFO -  text box with locator type 'id' locator 'search_query_top' was cleared successful
+2021-10-02 18:56:57.593: - INFO - enter text in the text box with locator type 'id' locator 'search_query_top'
+2021-10-02 18:56:57.594: - INFO - query 'dress' was entered in the searchBox successful
+2021-10-02 18:56:59.246: - INFO - locator type 'name' locator 'submit_search' was found
+2021-10-02 18:56:59.247: - INFO - click search Btn successful
+2021-10-02 18:56:59.408: - INFO - Page checking failed
+2021-10-02 18:56:59.408: - INFO - Test Failed
+2021-10-02 18:56:59.408: - INFO - Connection interrupt
+2021-10-02 18:56:59.442: - INFO - Close the browser window

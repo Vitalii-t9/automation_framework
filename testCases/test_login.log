@@ -1,0 +1,19 @@
+2021-10-02 18:13:30.671: - INFO - Select Web driver: <selenium.webdriver.chrome.webdriver.WebDriver (session="7f95b55c78543d2840ae0378dd72bc83")> by Chrome
+2021-10-02 18:13:30.687: - INFO - implicitly wait 5 second
+2021-10-02 18:13:30.801: - INFO - Maximize browser window
+2021-10-02 18:13:34.097: - INFO - go to the start URL http://automationpractice.com/index.php 
+2021-10-02 18:13:35.709: - INFO - locator type 'link text' locator 'Sign in' was found
+2021-10-02 18:13:35.709: - INFO - Click success
+2021-10-02 18:13:35.712: - INFO - Current page is equal expected page
+2021-10-02 18:13:35.752: - INFO -  text box with locator type 'id' locator 'email' was cleared successful
+2021-10-02 18:13:35.787: - INFO - enter text in the text box with locator type 'id' locator 'email'
+2021-10-02 18:13:35.787: - INFO - Email was entered successful
+2021-10-02 18:13:35.827: - INFO -  text box with locator type 'id' locator 'passwd' was cleared successful
+2021-10-02 18:13:35.893: - INFO - enter text in the text box with locator type 'id' locator 'passwd'
+2021-10-02 18:13:35.893: - INFO - Password was entered successful
+2021-10-02 18:13:37.073: - INFO - locator type 'id' locator 'SubmitLogin' was found
+2021-10-02 18:13:37.073: - INFO - Click success
+2021-10-02 18:13:37.075: - INFO - Current page is equal expected page
+2021-10-02 18:13:37.075: - INFO - Test Passed
+2021-10-02 18:13:37.075: - INFO - Connection interrupt
+2021-10-02 18:13:37.105: - INFO - Close the browser window

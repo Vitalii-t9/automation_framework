@@ -1,0 +1,18 @@
+2021-10-02 18:16:23.209: - INFO - Select Web driver: <selenium.webdriver.chrome.webdriver.WebDriver (session="2585bf311871f682745943af16954822")> by Chrome
+2021-10-02 18:16:23.210: - INFO - implicitly wait 5 second
+2021-10-02 18:16:23.331: - INFO - Maximize browser window
+2021-10-02 18:16:27.328: - INFO - go to the start URL http://automationpractice.com/index.php 
+2021-10-02 18:16:30.537: - INFO - locator type 'xpath' locator '//body/div[@id='page']/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[2]/h5[1]/a[1]' was found
+2021-10-02 18:16:30.537: - INFO - Click success
+2021-10-02 18:16:32.551: - INFO - Current page is equal expected page
+2021-10-02 18:16:32.608: - INFO - locator type 'xpath' locator '//span[contains(text(),'Add to cart')]' was found
+2021-10-02 18:16:32.608: - INFO - Click success
+2021-10-02 18:16:33.834: - INFO - locator type 'xpath' locator '//header/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/span[1]' was found
+2021-10-02 18:16:33.834: - INFO - Click success
+2021-10-02 18:16:36.100: - INFO - locator type 'xpath' locator '//header/div[3]/div[1]/div[1]/div[3]/div[1]/a[1]' was found
+2021-10-02 18:16:36.100: - INFO - Click success
+2021-10-02 18:16:38.106: - INFO - Current page is equal expected page
+2021-10-02 18:16:38.127: - INFO - Current Qtn is equal expected Qtn
+2021-10-02 18:16:38.127: - INFO - Test Passed
+2021-10-02 18:16:38.127: - INFO - Connection interrupt
+2021-10-02 18:16:38.159: - INFO - Close the browser window
